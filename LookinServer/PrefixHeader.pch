@@ -1,0 +1,15 @@
+//
+//  PrefixHeader.pch
+//  LookinServer
+//
+//  Created by yuchuanfeng on 2024/5/22.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+
+#define SHOULD_COMPILE_LOOKIN_SERVER 1
+
+
+#endif /* PrefixHeader_pch */
