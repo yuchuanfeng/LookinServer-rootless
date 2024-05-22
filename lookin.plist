@@ -1,5 +1,9 @@
 {
 	Filter = {
+		Classes = (
+			UIApplication,
+		);
+		Executables = ();
 		Bundles = (
 			"com.apple.UIKit",
 		);
